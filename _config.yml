@@ -20,14 +20,13 @@
 
 # START: Customize these things!!!
 
-title: My Super-Great Webring
+title: bird ring
 description: >- # this means to ignore newlines until "baseurl:"
-  This is where you tell everyone what your awesome webring is
-  all about.
+  webring for bird people
 
-baseurl: /webring-starter # the subpath of your site, e.g. /blog
-url: https://githubusername.github.io
-repository: githubusername/webring-starter
+baseurl: /bird-ring # the subpath of your site, e.g. /blog
+url: https://coffeeknife.github.io
+repository: coffeeknife/bird-ring
 
 # END: You *can* customize the stuff below but you don't need to.
 
